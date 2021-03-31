@@ -1,0 +1,16 @@
+body{
+    background-color: violet;
+}
+p{
+    color:yellow;
+  }
+   li{
+       color:cyan ;
+   }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+  h1{
+      background-color: purple;
+  }
